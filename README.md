@@ -1,4 +1,4 @@
-# Open Camera for Magisk
+# OpenCamera_Magisk
 
 This is a module for installing Open Camera systemlessly with Magisk.
 
@@ -10,8 +10,7 @@ This is a module for installing Open Camera systemlessly with Magisk.
 # **Open Camera**
 #    Changelog
 #  ~v1.0
-
 Initial Release
 
 
-# OpenCamera_Magisk
+
