@@ -1,0 +1,7 @@
+id=open-camera
+name=Open Camera
+version=v1.0
+versionCode=1.0
+author=The~Skater~187
+description=Open Camera extracted from Micro-Gapps that can be installed systemlessly via Magisk.
+minMagisk=1500
